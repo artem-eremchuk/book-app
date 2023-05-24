@@ -1,3 +1,4 @@
+// git rm -r --cached myFolder
 import { MainView } from "./views/main/main.js";
 
 class App {
